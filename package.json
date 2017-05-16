@@ -1,0 +1,23 @@
+{
+  "name": "mdb4-tutorial",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap https://mdbootstrap.com/getting-started/",
+  "main": "index.js",
+  "dependencies": {
+    "mdbootstrap": "^4.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jon-atto-bennett/mdb4-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jon-atto-bennett/mdb4-tutorial/issues"
+  },
+  "homepage": "https://github.com/jon-atto-bennett/mdb4-tutorial#readme"
+}
